@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Locations>
+  <Project>
+    <vfs_file>E:\GitHub\GNAT\Ada-1\default.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>E:\GitHub\GNAT\Ada-1\default.gpr</vfs_project>
+      <vfs_file>E:\GitHub\GNAT\Ada-1\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 21" line=" 7" >
+      <vfs_project>E:\GitHub\GNAT\Ada-1\default.gpr</vfs_project>
+      <vfs_file>E:\GitHub\GNAT\Ada-1\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 34" line=" 1" >
+      <vfs_project>E:\GitHub\GNAT\Ada-1\default.gpr</vfs_project>
+      <vfs_file>E:\GitHub\GNAT\Ada-1\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 6" >
+      <vfs_project>E:\GitHub\GNAT\Ada-1\default.gpr</vfs_project>
+      <vfs_file>E:\GitHub\GNAT\Ada-1\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 34" line=" 1" >
+      <vfs_project>E:\GitHub\GNAT\Ada-1\default.gpr</vfs_project>
+      <vfs_file>E:\GitHub\GNAT\Ada-1\src\main.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

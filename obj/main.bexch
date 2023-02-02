@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+E:\GitHub\GNAT\Ada-1\default.gpr
+20230201192724 78902bdfc3d43181d84e7a0aaa9fc69b
+[BOUND OBJECT FILES]
+E:\GitHub\GNAT\Ada-1\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LE:\GitHub\GNAT\Ada-1\obj\
+-LE:\GitHub\GNAT\Ada-1\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000
